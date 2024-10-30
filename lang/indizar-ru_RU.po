@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: indizar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-19 06:52-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Juan Sebastián Echeverry <sebaxtian@gawab.com>\n"
+"Language-Team: Sebaxtian <sebaxtian@gawab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /var/www/wordpress/wp-content/plugins/indizar/\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: tinymce\n"
+
+#: indizar.php:504
+msgid "Chapters"
+msgstr "Главы"
+
+#: indizar.php:508
+msgid "Previous"
+msgstr "Предыдущая"
+
+#: indizar.php:526
+#: tinymce/mce_indizar.php:132
+msgid "Preface"
+msgstr "Предисловие"
+
+#: indizar.php:552
+msgid "Next"
+msgstr "Следующая"
+
+#: tinymce/mce_indizar.php:32
+msgid "Chapter"
+msgstr "Заголовок"
+
+#: tinymce/mce_indizar.php:33
+msgid "Index"
+msgstr "Оглавление"
+
+#: tinymce/mce_indizar.php:34
+msgid "Configuration"
+msgstr "Общие настройки"
+
+#: tinymce/mce_indizar.php:44
+msgid "Chapter name:"
+msgstr "Название главы"
+
+#: tinymce/mce_indizar.php:48
+msgid "First Chapter:"
+msgstr "Первая глава:"
+
+#: tinymce/mce_indizar.php:60
+msgid "Use default position"
+msgstr "Позицию по умолчанию"
+
+#: tinymce/mce_indizar.php:73
+#: tinymce/mce_indizar.php:112
+msgid "Box size:"
+msgstr "Ширина оглавления:"
+
+#: tinymce/mce_indizar.php:77
+#: tinymce/mce_indizar.php:117
+msgid "Float"
+msgstr "Расположение"
+
+#: tinymce/mce_indizar.php:81
+msgid "No float"
+msgstr "Нет"
+
+#: tinymce/mce_indizar.php:82
+#: tinymce/mce_indizar.php:122
+msgid "Left"
+msgstr "Слева"
+
+#: tinymce/mce_indizar.php:83
+#: tinymce/mce_indizar.php:123
+msgid "Right"
+msgstr "Справа"
+
+#: tinymce/mce_indizar.php:97
+msgid "Numbered list:"
+msgstr "Постраничник:"
+
+#: tinymce/mce_indizar.php:101
+msgid "None"
+msgstr "Нет"
+
+#: tinymce/mce_indizar.php:102
+msgid "Top"
+msgstr "Вверху"
+
+#: tinymce/mce_indizar.php:103
+msgid "Bottom"
+msgstr "Внизу"
+
+#: tinymce/mce_indizar.php:104
+msgid "Both"
+msgstr "Вверху и внизу"
+
+#: tinymce/mce_indizar.php:110
+msgid "Box:"
+msgstr "Ширина оглавления:"
+
+#: tinymce/mce_indizar.php:121
+msgid "No box"
+msgstr "Нет"
+
+#: tinymce/mce_indizar.php:129
+msgid "Use preface:"
+msgstr "Использовать предисловие"
+
+#: tinymce/mce_indizar.php:131
+msgid "Preface title:"
+msgstr "Заголовок предисловия"
+
+#: tinymce/mce_indizar.php:142
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tinymce/mce_indizar.php:146
+msgid "Insert"
+msgstr "Ввод"
+

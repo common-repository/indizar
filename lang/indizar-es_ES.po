@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: indizar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-19 06:48-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Juan Sebastián Echeverry <sebaxtian@gawab.com>\n"
+"Language-Team: Sebaxtian <sebaxtian@gawab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /var/www/wordpress/wp-content/plugins/indizar/\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: COLOMBIA\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: tinymce\n"
+
+#: indizar.php:504
+msgid "Chapters"
+msgstr "Cap&iacute;­tulos"
+
+#: indizar.php:508
+msgid "Previous"
+msgstr "Anterior"
+
+#: indizar.php:526
+#: tinymce/mce_indizar.php:132
+msgid "Preface"
+msgstr "Prefacio"
+
+#: indizar.php:552
+msgid "Next"
+msgstr "Siguiente"
+
+#: tinymce/mce_indizar.php:32
+msgid "Chapter"
+msgstr "Cap&iacute;­tulo"
+
+#: tinymce/mce_indizar.php:33
+msgid "Index"
+msgstr "Indice"
+
+#: tinymce/mce_indizar.php:34
+msgid "Configuration"
+msgstr "Configuraci&oacute;n"
+
+#: tinymce/mce_indizar.php:44
+msgid "Chapter name:"
+msgstr "T&iacute;­tulo del Cap&iacute;­tulo:"
+
+#: tinymce/mce_indizar.php:48
+msgid "First Chapter:"
+msgstr "Primer cap&iacute;­tulo:"
+
+#: tinymce/mce_indizar.php:60
+msgid "Use default position"
+msgstr "Usar posición por defecto"
+
+#: tinymce/mce_indizar.php:73
+#: tinymce/mce_indizar.php:112
+msgid "Box size:"
+msgstr "Tama&ntilde;o de la caja:"
+
+#: tinymce/mce_indizar.php:77
+#: tinymce/mce_indizar.php:117
+msgid "Float"
+msgstr "Flotar"
+
+#: tinymce/mce_indizar.php:81
+msgid "No float"
+msgstr "Sin Flotar"
+
+#: tinymce/mce_indizar.php:82
+#: tinymce/mce_indizar.php:122
+msgid "Left"
+msgstr "Izquierda"
+
+#: tinymce/mce_indizar.php:83
+#: tinymce/mce_indizar.php:123
+msgid "Right"
+msgstr "Derecha"
+
+#: tinymce/mce_indizar.php:97
+msgid "Numbered list:"
+msgstr "Lista numerada:"
+
+#: tinymce/mce_indizar.php:101
+msgid "None"
+msgstr "Ninguno"
+
+#: tinymce/mce_indizar.php:102
+msgid "Top"
+msgstr "Arriba"
+
+#: tinymce/mce_indizar.php:103
+msgid "Bottom"
+msgstr "Abajo"
+
+#: tinymce/mce_indizar.php:104
+msgid "Both"
+msgstr "Ambos"
+
+#: tinymce/mce_indizar.php:110
+msgid "Box:"
+msgstr "Caja:"
+
+#: tinymce/mce_indizar.php:121
+msgid "No box"
+msgstr "Sin caja"
+
+#: tinymce/mce_indizar.php:129
+msgid "Use preface:"
+msgstr "Usar prefacio:"
+
+#: tinymce/mce_indizar.php:131
+msgid "Preface title:"
+msgstr "T&iacute;tulo del prefacio:"
+
+#: tinymce/mce_indizar.php:142
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: tinymce/mce_indizar.php:146
+msgid "Insert"
+msgstr "Insertar"
+
